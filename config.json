@@ -1,7 +1,7 @@
 {
     "prefix": "/",
-    "owner": "Owner Name",
-    "botname": "Bot Name",
+    "owner": "Lahatra",
+    "botname": "chika fujiwara",
     "apiOptions": {
         "forceLogin": false,
         "logLevel": "silent",
@@ -15,7 +15,7 @@
         "listenEvents": true
     },
     "adminBot": [
-        "Owner UID"
+        "100039040104071"
     ],
     "autoLoad": true,
     "autopost": true,
